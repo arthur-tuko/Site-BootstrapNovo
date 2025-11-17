@@ -11004,6 +11004,13 @@ header.masthead h1, header.masthead .h1 {
 .ferrao{
   width: 10%;
 }
+.ferrao2{
+  width: 5.6%;
+}
+.seila{
+  justify-content: center;
+  display: flex;
+}
 .alminha{
   width: 50%;
 }
